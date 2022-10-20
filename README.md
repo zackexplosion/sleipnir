@@ -1,24 +1,9 @@
-# auto-script-to-final-cut-xml
+# Sleipnir
 
-## Project setup
-```
-yarn install
-```
+The automatic script to subtitle convertor
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Tired with video subtitle?
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Get a try !
+https://zackexplosion.github.io/sleipnir/
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
